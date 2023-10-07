@@ -47,12 +47,6 @@
   padding: 10px 52px 10px 51px;
 }
 
-.u-section-1 .u-image-2 {
-  width: 179px;
-  height: 153px;
-  margin: -593px -159px 0 auto;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 724px;
@@ -84,15 +78,8 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 21px;
+    margin-bottom: -24px;
     margin-left: 0;
-  }
-
-  .u-section-1 .u-image-2 {
-    width: 78px;
-    height: 79px;
-    margin-top: -777px;
-    margin-right: auto;
-    margin-left: 72px;
   }
 }
 
@@ -120,6 +107,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: -118px;
+    margin-bottom: -578px;
   }
 }
 
@@ -135,6 +123,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: -174px;
+    margin-bottom: -544px;
   }
 }
 
@@ -154,6 +143,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: -237px;
+    margin-bottom: -478px;
   }
 } .u-section-2 {
   background-image: url("images/Stars.jpeg");
@@ -669,7 +659,7 @@
 @media (max-width: 1199px) {
   .u-section-4 .u-text-1 {
     width: auto;
-    margin-top: 11px;
+    margin-top: 18px;
     margin-right: 309px;
   }
 
@@ -702,6 +692,14 @@
     margin-top: -88px;
     margin-right: 425px;
     margin-bottom: 0;
+  }
+
+  .u-section-4 .u-image-2 {
+    width: 146px;
+    height: 144px;
+    margin-top: -670px;
+    margin-right: 24px;
+    margin-bottom: 60px;
   }
 }
 
