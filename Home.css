@@ -292,13 +292,6 @@
   .u-section-2 .u-layout-cell-1 {
     min-height: 196px;
   }
-
-  .u-section-2 .embed-responsive-1 {
-    width: 100%;
-    left: auto;
-    height: 100%;
-    top: auto;
-  }
 } .u-section-3 {
   background-image: url("images/Stars.jpeg");
   background-position: 50% 50%;
@@ -348,13 +341,6 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-
-  .u-section-3 .embed-responsive-1 {
-    width: 178%;
-    left: -39%;
-    height: 178%;
-    top: -39%;
-  }
 }
 
 @media (max-width: 767px) {
@@ -392,13 +378,6 @@
 
   .u-section-3 .u-layout-cell-1 {
     min-height: 196px;
-  }
-
-  .u-section-3 .embed-responsive-1 {
-    width: 100%;
-    left: auto;
-    height: 100%;
-    top: auto;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 562px;
