@@ -149,71 +149,6 @@
   margin: 40px auto 0;
 }
 
-.u-section-2 .u-group-elements-1 {
-  width: 290px;
-  min-height: 474px;
-  margin: -40px 35px 0 auto;
-}
-
-.u-section-2 .u-group-elements-2 {
-  width: 290px;
-  min-height: 474px;
-  margin: 0 auto 0 0;
-}
-
-.u-section-2 .u-group-elements-3 {
-  min-height: 474px;
-  margin-top: 73px;
-  margin-bottom: -73px;
-  height: auto;
-}
-
-.u-section-2 .u-group-1 {
-  min-height: 474px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-2 .u-text-2 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  margin: 0 106px 0 0;
-}
-
-.u-section-2 .u-text-3 {
-  margin: 12px 0 0;
-}
-
-.u-section-2 .u-btn-1 {
-  border-style: solid;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  margin: 12px 232px 0 0;
-  padding: 0;
-}
-
-.u-section-2 .u-text-4 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  margin: 40px 106px 0 0;
-}
-
-.u-section-2 .u-text-5 {
-  margin: 12px 0 0;
-}
-
-.u-section-2 .u-btn-2 {
-  border-style: solid;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  margin: 8px 232px 0 0;
-  padding: 0;
-}
-
 .u-section-2 .u-layout-wrap-1 {
   width: 772px;
   margin: -394px auto 60px 0;
@@ -223,7 +158,7 @@
   min-height: 511px;
 }
 
-.u-section-2 .u-container-layout-2 {
+.u-section-2 .u-container-layout-1 {
   padding: 20px;
 }
 
@@ -236,18 +171,16 @@
     min-height: 665px;
   }
 
-  .u-section-2 .u-group-elements-3 {
-    width: 290px;
-    margin: 67px -21px -67px auto;
-  }
-
   .u-section-2 .u-layout-wrap-1 {
-    width: 568px;
-    margin-top: -370px;
+    margin-top: 12px;
+    margin-bottom: 42px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 450px;
+    min-height: 542px;
   }
 }
 
@@ -257,10 +190,10 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 496px;
+    min-height: 415px;
   }
 
-  .u-section-2 .u-container-layout-2 {
+  .u-section-2 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
   }
@@ -283,15 +216,11 @@
     width: 540px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    width: 540px;
-  }
-
   .u-section-2 .u-layout-cell-1 {
-    min-height: 810px;
+    min-height: 311px;
   }
 
-  .u-section-2 .u-container-layout-2 {
+  .u-section-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -307,12 +236,8 @@
     width: 340px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    width: 340px;
-  }
-
   .u-section-2 .u-layout-cell-1 {
-    min-height: 225px;
+    min-height: 196px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 562px;
@@ -1021,23 +946,34 @@
 
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 412px;
+    min-height: 452px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: 1px;
+    margin-bottom: 1px;
   }
 
   .u-section-6 .u-layout-cell-1 {
-    min-height: 484px;
+    min-height: 451px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-top: 0;
   }
 
   .u-section-6 .u-text-1 {
     font-size: 3rem;
-    margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
+    width: auto;
+    margin-top: -19px;
+    margin-right: -307px;
+    margin-left: 307px;
   }
 
   .u-section-6 .u-line-1 {
-    width: 470px;
-    margin-right: 0;
+    width: 940px;
+    margin-top: 19px;
+    margin-right: -470px;
   }
 
   .u-section-6 .u-image-1 {
@@ -1045,10 +981,12 @@
   }
 
   .u-section-6 .u-layout-cell-2 {
-    min-height: 379px;
+    min-height: 451px;
   }
 
   .u-section-6 .u-text-2 {
+    width: auto;
+    margin-top: 52px;
     margin-left: 0;
     margin-right: 0;
   }
@@ -1065,10 +1003,13 @@
 
   .u-section-6 .u-text-1 {
     font-size: 2.25rem;
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-6 .u-line-1 {
     width: 360px;
+    margin-right: 0;
   }
 
   .u-section-6 .u-layout-cell-2 {
@@ -1089,10 +1030,6 @@
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
     min-height: 781px;
-  }
-
-  .u-section-6 .u-layout-wrap-1 {
-    margin-bottom: 0;
   }
 
   .u-section-6 .u-layout-cell-1 {
@@ -1118,7 +1055,6 @@
   }
 
   .u-section-6 .u-text-2 {
-    width: auto;
     margin-top: -44px;
   }
 } .u-section-7 {
