@@ -435,7 +435,25 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 487px;
+    min-height: 482px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 76px;
+    height: 76px;
+    margin-top: 19px;
+    margin-right: 32px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.25rem;
+    margin-top: -54px;
+    margin-right: 116px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-top: 41px;
+    margin-bottom: 19px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 562px;
