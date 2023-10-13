@@ -536,100 +536,55 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 974px;
-}
-
-.u-section-5 .u-text-1 {
-  font-size: 3.75rem;
-  font-family: "Alfa Slab One";
-  margin: 14px 509px 0 0;
+  min-height: 281px;
 }
 
 .u-section-5 .u-image-1 {
-  width: 188px;
-  height: 190px;
-  margin: -70px 14px 0 auto;
+  width: 98px;
+  height: 98px;
+  margin: 11px 0 0 auto;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 1.5rem;
+  font-family: "Alfa Slab One";
+  width: auto;
+  margin: -68px 98px 0 0;
 }
 
 .u-section-5 .u-text-2 {
-  font-size: 1.125rem;
-  margin: -120px 225px 0 0;
+  font-size: 1rem;
+  width: auto;
+  margin: 41px 0 18px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 883px;
-  }
-
   .u-section-5 .u-text-1 {
-    margin-right: 309px;
-  }
-
-  .u-section-5 .u-image-1 {
-    width: 97px;
-    height: 78px;
-    margin-top: -87px;
-    margin-right: 25px;
+    font-size: 2.25rem;
+    margin-right: 544px;
   }
 
   .u-section-5 .u-text-2 {
-    margin-top: 9px;
-    margin-right: 25px;
+    margin-top: 22px;
+    margin-bottom: 37px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 1027px;
-  }
-
   .u-section-5 .u-text-1 {
-    margin-right: 89px;
-  }
-
-  .u-section-5 .u-text-2 {
-    margin-right: 0;
+    margin-right: 98px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 943px;
-  }
-
   .u-section-5 .u-text-1 {
-    font-size: 2.25rem;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-text-2 {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 473px;
-  }
-
-  .u-section-5 .u-text-1 {
-    font-size: 1.5rem;
-    width: auto;
-    margin-top: 30px;
-    margin-right: 87px;
-  }
-
-  .u-section-5 .u-image-1 {
-    width: 87px;
-    height: 74px;
-    margin-top: -56px;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-text-2 {
-    width: auto;
-    margin-top: 19px;
-    margin-bottom: 19px;
+    min-height: 487px;
   }
 } .u-section-6 {
   background-image: none;
@@ -784,7 +739,8 @@
 
   .u-section-6 .u-shape-1 {
     width: 340px;
-    margin-top: 23px;
+    margin-top: 18px;
+    margin-left: 0;
   }
 
   .u-section-6 .u-image-1 {
